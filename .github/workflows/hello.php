@@ -1,7 +1,7 @@
-<?php 
+<?php
 
   $age = 10;
   $name = "Hello";
 
-  echo $name. "world";
+  echo $name."world";
 ?>

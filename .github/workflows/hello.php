@@ -4,4 +4,4 @@
   $name = "Hello";
 
   echo $name. "world";
->
+?>
